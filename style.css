@@ -59,10 +59,10 @@ input {
 } */
 @keyframes rotate1 {
   0% {
-    transform: scale(1.5) translateZ(100px) rotateX(-20deg) rotateY(0deg);
+    transform: scale(1.8) translateZ(100px) rotateX(-20deg) rotateY(0deg);
   }
   100% {
-    transform: scale(1.5) translateZ(100px) rotateX(-20deg) rotateY(-360deg);
+    transform: scale(1.8) translateZ(100px) rotateX(-20deg) rotateY(-360deg);
   }
 }
 /* @keyframes rotate2 {
@@ -75,25 +75,25 @@ input {
 } */
 .text {
   position: absolute;
-  top: 25%;
-  font-size: 60px;
+  top: 16%;
+  font-size: 70px;
   color: white;
   opacity: 0;
   animation-name: show;
   animation-duration: 4s;
   animation-play-state: var(--anim-state);
-  animation-delay: 6s;
+  animation-delay: 0s;
   animation-fill-mode: forwards;
   width: 100%;
   text-align: center;
 }
 
-@media (max-width: 720px) {
-  .text {
-    top: 20%;
-    font-size: 64px;
-  }
-}
+/* @media (min-width: 720px) {
+    .text {
+        top: 20%;
+        font-size: 64px;
+    }
+} */
 @keyframes show {
   from {
     opacity: 0;
