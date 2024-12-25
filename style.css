@@ -46,7 +46,6 @@ input {
 .main-wrapper {
   animation-name: rotate1;
   animation-duration: 4s;
-  /* animation-play-state: var(--anim-state, running); */
   animation-iteration-count: infinite;
   animation-timing-function: linear;
   top: 66%;
@@ -175,7 +174,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.94s;
+  animation-delay: 5.08s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(1) > div {
@@ -205,7 +204,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.02s;
+  animation-delay: 1.17s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(2) > div {
@@ -235,7 +234,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.17s;
+  animation-delay: 5.05s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(3) > div {
@@ -265,7 +264,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.34s;
+  animation-delay: 1.72s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(4) > div {
@@ -295,7 +294,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.6s;
+  animation-delay: 1.12s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(5) > div {
@@ -328,7 +327,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.89s;
+  animation-delay: 1.71s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(1) > div {
@@ -358,7 +357,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.97s;
+  animation-delay: 4.56s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(2) > div {
@@ -388,7 +387,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.24s;
+  animation-delay: 3.36s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(3) > div {
@@ -418,7 +417,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.03s;
+  animation-delay: 1.54s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(4) > div {
@@ -448,7 +447,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.39s;
+  animation-delay: 4.2s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(5) > div {
@@ -481,7 +480,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.42s;
+  animation-delay: 1.09s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(1) > div {
@@ -511,7 +510,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.52s;
+  animation-delay: 1.25s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(2) > div {
@@ -541,7 +540,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.36s;
+  animation-delay: 5.27s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(3) > div {
@@ -571,7 +570,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.15s;
+  animation-delay: 1.69s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(4) > div {
@@ -601,7 +600,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.96s;
+  animation-delay: 2.22s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(5) > div {
@@ -634,7 +633,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.22s;
+  animation-delay: 3.95s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(1) > div {
@@ -664,7 +663,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.98s;
+  animation-delay: 1.65s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(2) > div {
@@ -694,7 +693,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.5s;
+  animation-delay: 1.99s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(3) > div {
@@ -724,7 +723,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.09s;
+  animation-delay: 2.38s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(4) > div {
@@ -754,7 +753,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.19s;
+  animation-delay: 1.63s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(5) > div {
@@ -787,7 +786,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.42s;
+  animation-delay: 2.69s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(1) > div {
@@ -817,7 +816,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.1s;
+  animation-delay: 5.25s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(2) > div {
@@ -847,7 +846,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.16s;
+  animation-delay: 4.84s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(3) > div {
@@ -877,7 +876,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.63s;
+  animation-delay: 2.27s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(4) > div {
@@ -907,7 +906,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.85s;
+  animation-delay: 2.37s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(5) > div {
@@ -944,7 +943,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.72s;
+  animation-delay: 3.6s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(1) > div {
@@ -974,7 +973,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.84s;
+  animation-delay: 2.56s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(2) > div {
@@ -1004,7 +1003,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.59s;
+  animation-delay: 5.21s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(3) > div {
@@ -1034,7 +1033,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.93s;
+  animation-delay: 4.82s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(4) > div {
@@ -1064,7 +1063,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.25s;
+  animation-delay: 2.22s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(5) > div {
@@ -1097,7 +1096,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.89s;
+  animation-delay: 3.92s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(1) > div {
@@ -1127,7 +1126,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.01s;
+  animation-delay: 3.09s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(2) > div {
@@ -1157,7 +1156,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.81s;
+  animation-delay: 1.82s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(3) > div {
@@ -1187,7 +1186,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.43s;
+  animation-delay: 2.17s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(4) > div {
@@ -1217,7 +1216,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.09s;
+  animation-delay: 1.4s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(5) > div {
@@ -1250,7 +1249,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.85s;
+  animation-delay: 5.19s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(1) > div {
@@ -1280,7 +1279,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.51s;
+  animation-delay: 5.2s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(2) > div {
@@ -1310,7 +1309,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.04s;
+  animation-delay: 4.79s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(3) > div {
@@ -1340,7 +1339,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.05s;
+  animation-delay: 4.63s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(4) > div {
@@ -1370,7 +1369,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.63s;
+  animation-delay: 3.2s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(5) > div {
@@ -1403,7 +1402,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.54s;
+  animation-delay: 4.47s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(1) > div {
@@ -1433,7 +1432,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.19s;
+  animation-delay: 2.46s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(2) > div {
@@ -1463,7 +1462,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.38s;
+  animation-delay: 3.69s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(3) > div {
@@ -1493,7 +1492,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.37s;
+  animation-delay: 1.32s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(4) > div {
@@ -1523,7 +1522,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.72s;
+  animation-delay: 4.28s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(5) > div {
@@ -1556,7 +1555,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.12s;
+  animation-delay: 1.46s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(1) > div {
@@ -1586,7 +1585,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.87s;
+  animation-delay: 4.52s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(2) > div {
@@ -1616,7 +1615,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.17s;
+  animation-delay: 4.02s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(3) > div {
@@ -1646,7 +1645,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.05s;
+  animation-delay: 4.92s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(4) > div {
@@ -1676,7 +1675,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.97s;
+  animation-delay: 4.25s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(5) > div {
@@ -1713,7 +1712,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.48s;
+  animation-delay: 4.42s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(1) > div {
@@ -1743,7 +1742,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.44s;
+  animation-delay: 2.34s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(2) > div {
@@ -1773,7 +1772,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.5s;
+  animation-delay: 2.48s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(3) > div {
@@ -1803,7 +1802,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.45s;
+  animation-delay: 2.97s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(4) > div {
@@ -1833,7 +1832,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.23s;
+  animation-delay: 3.23s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(5) > div {
@@ -1866,7 +1865,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.9s;
+  animation-delay: 3.2s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(1) > div {
@@ -1896,7 +1895,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.73s;
+  animation-delay: 3.59s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(2) > div {
@@ -1926,7 +1925,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.47s;
+  animation-delay: 3.36s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(3) > div {
@@ -1956,7 +1955,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.67s;
+  animation-delay: 2.84s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(4) > div {
@@ -1986,7 +1985,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.14s;
+  animation-delay: 1.86s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(5) > div {
@@ -2019,7 +2018,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.38s;
+  animation-delay: 4.93s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(1) > div {
@@ -2049,7 +2048,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.07s;
+  animation-delay: 3.32s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(2) > div {
@@ -2079,7 +2078,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.24s;
+  animation-delay: 4.34s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(3) > div {
@@ -2109,7 +2108,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.87s;
+  animation-delay: 4.45s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(4) > div {
@@ -2139,7 +2138,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.69s;
+  animation-delay: 1.67s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(5) > div {
@@ -2172,7 +2171,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.01s;
+  animation-delay: 1.95s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(1) > div {
@@ -2202,7 +2201,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.73s;
+  animation-delay: 3.61s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(2) > div {
@@ -2232,7 +2231,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.04s;
+  animation-delay: 5.18s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(3) > div {
@@ -2262,7 +2261,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.86s;
+  animation-delay: 4.91s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(4) > div {
@@ -2292,7 +2291,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.29s;
+  animation-delay: 1.76s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(5) > div {
@@ -2325,7 +2324,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.35s;
+  animation-delay: 3.07s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(1) > div {
@@ -2355,7 +2354,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.74s;
+  animation-delay: 3.26s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(2) > div {
@@ -2385,7 +2384,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.97s;
+  animation-delay: 3.6s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(3) > div {
@@ -2415,7 +2414,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.28s;
+  animation-delay: 2.75s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(4) > div {
@@ -2445,7 +2444,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.61s;
+  animation-delay: 4.42s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(5) > div {
@@ -2482,7 +2481,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.7s;
+  animation-delay: 4.07s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(1) > div {
@@ -2512,7 +2511,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.21s;
+  animation-delay: 2.37s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(2) > div {
@@ -2542,7 +2541,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.64s;
+  animation-delay: 1.33s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(3) > div {
@@ -2572,7 +2571,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.91s;
+  animation-delay: 2.61s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(4) > div {
@@ -2602,7 +2601,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.18s;
+  animation-delay: 4.22s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(5) > div {
@@ -2635,7 +2634,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.25s;
+  animation-delay: 1.58s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(1) > div {
@@ -2665,7 +2664,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.06s;
+  animation-delay: 1.4s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(2) > div {
@@ -2695,7 +2694,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.31s;
+  animation-delay: 2.44s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(3) > div {
@@ -2725,7 +2724,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.37s;
+  animation-delay: 1.5s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(4) > div {
@@ -2755,7 +2754,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.14s;
+  animation-delay: 2.68s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(5) > div {
@@ -2788,7 +2787,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.48s;
+  animation-delay: 1.84s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(1) > div {
@@ -2818,7 +2817,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.52s;
+  animation-delay: 2.11s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(2) > div {
@@ -2848,7 +2847,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.99s;
+  animation-delay: 3.87s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(3) > div {
@@ -2878,7 +2877,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.33s;
+  animation-delay: 4.73s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(4) > div {
@@ -2908,7 +2907,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.35s;
+  animation-delay: 4.41s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(5) > div {
@@ -2941,7 +2940,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.17s;
+  animation-delay: 2.1s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(1) > div {
@@ -2971,7 +2970,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.28s;
+  animation-delay: 2.52s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(2) > div {
@@ -3001,7 +3000,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.39s;
+  animation-delay: 4.05s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(3) > div {
@@ -3031,7 +3030,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.41s;
+  animation-delay: 4.41s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(4) > div {
@@ -3061,7 +3060,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.01s;
+  animation-delay: 4.63s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(5) > div {
@@ -3094,7 +3093,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.43s;
+  animation-delay: 3.46s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(1) > div {
@@ -3124,7 +3123,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.07s;
+  animation-delay: 2.78s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(2) > div {
@@ -3154,7 +3153,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.6s;
+  animation-delay: 3.94s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(3) > div {
@@ -3184,7 +3183,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.52s;
+  animation-delay: 4.5s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(4) > div {
@@ -3214,7 +3213,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.59s;
+  animation-delay: 3.46s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(1) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(5) > div {
@@ -3254,7 +3253,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.31s;
+  animation-delay: 1.4s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(1) > div {
@@ -3284,7 +3283,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.27s;
+  animation-delay: 1.01s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(2) > div {
@@ -3314,7 +3313,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.13s;
+  animation-delay: 1.42s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(3) > div {
@@ -3344,7 +3343,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.66s;
+  animation-delay: 4.72s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(4) > div {
@@ -3374,7 +3373,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.04s;
+  animation-delay: 1.75s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(5) > div {
@@ -3407,7 +3406,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.07s;
+  animation-delay: 5.27s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(1) > div {
@@ -3437,7 +3436,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.89s;
+  animation-delay: 2.79s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(2) > div {
@@ -3467,7 +3466,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.11s;
+  animation-delay: 4.78s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(3) > div {
@@ -3497,7 +3496,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.22s;
+  animation-delay: 5.07s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(4) > div {
@@ -3527,7 +3526,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.09s;
+  animation-delay: 1.89s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(5) > div {
@@ -3560,7 +3559,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.48s;
+  animation-delay: 2.82s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(1) > div {
@@ -3590,7 +3589,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.2s;
+  animation-delay: 1.03s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(2) > div {
@@ -3620,7 +3619,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.26s;
+  animation-delay: 1.67s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(3) > div {
@@ -3650,7 +3649,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.04s;
+  animation-delay: 4.79s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(4) > div {
@@ -3680,7 +3679,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.69s;
+  animation-delay: 4.44s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(5) > div {
@@ -3713,7 +3712,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.74s;
+  animation-delay: 3.85s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(1) > div {
@@ -3743,7 +3742,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.47s;
+  animation-delay: 3.82s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(2) > div {
@@ -3773,7 +3772,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.08s;
+  animation-delay: 5.31s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(3) > div {
@@ -3803,7 +3802,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.08s;
+  animation-delay: 5.11s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(4) > div {
@@ -3833,7 +3832,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.73s;
+  animation-delay: 3.69s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(5) > div {
@@ -3866,7 +3865,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.11s;
+  animation-delay: 3.46s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(1) > div {
@@ -3896,7 +3895,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.07s;
+  animation-delay: 4.6s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(2) > div {
@@ -3926,7 +3925,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.03s;
+  animation-delay: 2.43s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(3) > div {
@@ -3956,7 +3955,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.6s;
+  animation-delay: 4.09s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(4) > div {
@@ -3986,7 +3985,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.09s;
+  animation-delay: 2.39s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(5) > div {
@@ -4023,7 +4022,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.74s;
+  animation-delay: 3.41s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(1) > div {
@@ -4053,7 +4052,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.77s;
+  animation-delay: 3.7s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(2) > div {
@@ -4083,7 +4082,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.39s;
+  animation-delay: 4.97s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(3) > div {
@@ -4113,7 +4112,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.55s;
+  animation-delay: 4.62s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(4) > div {
@@ -4143,7 +4142,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.12s;
+  animation-delay: 2.99s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(5) > div {
@@ -4176,7 +4175,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.11s;
+  animation-delay: 4.74s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(1) > div {
@@ -4206,7 +4205,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.38s;
+  animation-delay: 2.24s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(2) > div {
@@ -4236,7 +4235,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.09s;
+  animation-delay: 4.91s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(3) > div {
@@ -4266,7 +4265,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.83s;
+  animation-delay: 4.44s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(4) > div {
@@ -4296,7 +4295,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.22s;
+  animation-delay: 3s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(5) > div {
@@ -4329,7 +4328,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.65s;
+  animation-delay: 2.89s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(1) > div {
@@ -4359,7 +4358,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.41s;
+  animation-delay: 4.22s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(2) > div {
@@ -4389,7 +4388,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.62s;
+  animation-delay: 3.07s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(3) > div {
@@ -4419,7 +4418,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.95s;
+  animation-delay: 2.79s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(4) > div {
@@ -4449,7 +4448,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.21s;
+  animation-delay: 4.98s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(5) > div {
@@ -4482,7 +4481,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.63s;
+  animation-delay: 5.13s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(1) > div {
@@ -4512,7 +4511,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.62s;
+  animation-delay: 2.69s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(2) > div {
@@ -4542,7 +4541,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.11s;
+  animation-delay: 2.51s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(3) > div {
@@ -4572,7 +4571,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.09s;
+  animation-delay: 2.83s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(4) > div {
@@ -4602,7 +4601,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.71s;
+  animation-delay: 1.2s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(5) > div {
@@ -4635,7 +4634,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.06s;
+  animation-delay: 2.98s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(1) > div {
@@ -4665,7 +4664,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.48s;
+  animation-delay: 4.52s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(2) > div {
@@ -4695,7 +4694,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.81s;
+  animation-delay: 5.01s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(3) > div {
@@ -4725,7 +4724,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.94s;
+  animation-delay: 1.5s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(4) > div {
@@ -4755,7 +4754,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.18s;
+  animation-delay: 4.91s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(5) > div {
@@ -4792,7 +4791,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.43s;
+  animation-delay: 4.97s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(1) > div {
@@ -4822,7 +4821,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.6s;
+  animation-delay: 1.48s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(2) > div {
@@ -4852,7 +4851,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.46s;
+  animation-delay: 2.97s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(3) > div {
@@ -4882,7 +4881,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.54s;
+  animation-delay: 4.33s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(4) > div {
@@ -4912,7 +4911,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.02s;
+  animation-delay: 2.5s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(5) > div {
@@ -4945,7 +4944,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.05s;
+  animation-delay: 2.42s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(1) > div {
@@ -4975,7 +4974,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5s;
+  animation-delay: 1.54s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(2) > div {
@@ -5005,7 +5004,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.09s;
+  animation-delay: 4.6s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(3) > div {
@@ -5035,7 +5034,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.39s;
+  animation-delay: 4.6s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(4) > div {
@@ -5065,7 +5064,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.04s;
+  animation-delay: 2.8s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(5) > div {
@@ -5098,7 +5097,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.03s;
+  animation-delay: 3.68s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(1) > div {
@@ -5128,7 +5127,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.56s;
+  animation-delay: 3.75s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(2) > div {
@@ -5158,7 +5157,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.75s;
+  animation-delay: 3.25s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(3) > div {
@@ -5188,7 +5187,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.24s;
+  animation-delay: 2.01s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(4) > div {
@@ -5218,7 +5217,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.23s;
+  animation-delay: 4.13s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(5) > div {
@@ -5251,7 +5250,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.25s;
+  animation-delay: 1.74s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(1) > div {
@@ -5281,7 +5280,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.34s;
+  animation-delay: 1.36s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(2) > div {
@@ -5311,7 +5310,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.79s;
+  animation-delay: 4.13s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(3) > div {
@@ -5341,7 +5340,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.09s;
+  animation-delay: 2.21s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(4) > div {
@@ -5371,7 +5370,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.1s;
+  animation-delay: 3.57s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(5) > div {
@@ -5404,7 +5403,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.69s;
+  animation-delay: 1.91s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(1) > div {
@@ -5434,7 +5433,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.01s;
+  animation-delay: 4.22s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(2) > div {
@@ -5464,7 +5463,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.54s;
+  animation-delay: 4.59s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(3) > div {
@@ -5494,7 +5493,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.63s;
+  animation-delay: 3.46s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(4) > div {
@@ -5524,7 +5523,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.28s;
+  animation-delay: 1.05s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(5) > div {
@@ -5561,7 +5560,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.41s;
+  animation-delay: 4.33s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(1) > div {
@@ -5591,7 +5590,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.43s;
+  animation-delay: 3.38s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(2) > div {
@@ -5621,7 +5620,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.64s;
+  animation-delay: 3.43s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(3) > div {
@@ -5651,7 +5650,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.84s;
+  animation-delay: 2.36s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(4) > div {
@@ -5681,7 +5680,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.62s;
+  animation-delay: 4.14s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(5) > div {
@@ -5714,7 +5713,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.7s;
+  animation-delay: 2.45s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(1) > div {
@@ -5744,7 +5743,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.78s;
+  animation-delay: 1.31s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(2) > div {
@@ -5774,7 +5773,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.77s;
+  animation-delay: 1.53s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(3) > div {
@@ -5804,7 +5803,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.17s;
+  animation-delay: 4.37s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(4) > div {
@@ -5834,7 +5833,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.54s;
+  animation-delay: 1.29s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(5) > div {
@@ -5867,7 +5866,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.64s;
+  animation-delay: 1.96s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(1) > div {
@@ -5897,7 +5896,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.05s;
+  animation-delay: 2.58s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(2) > div {
@@ -5927,7 +5926,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.14s;
+  animation-delay: 4.78s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(3) > div {
@@ -5957,7 +5956,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5s;
+  animation-delay: 2.12s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(4) > div {
@@ -5987,7 +5986,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.27s;
+  animation-delay: 2.5s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(5) > div {
@@ -6020,7 +6019,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.1s;
+  animation-delay: 4.31s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(1) > div {
@@ -6050,7 +6049,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.41s;
+  animation-delay: 3.2s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(2) > div {
@@ -6080,7 +6079,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.66s;
+  animation-delay: 4.08s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(3) > div {
@@ -6110,7 +6109,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.87s;
+  animation-delay: 3.76s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(4) > div {
@@ -6140,7 +6139,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.52s;
+  animation-delay: 1.82s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(5) > div {
@@ -6173,7 +6172,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.13s;
+  animation-delay: 4.65s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(1) > div {
@@ -6203,7 +6202,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.51s;
+  animation-delay: 2.71s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(2) > div {
@@ -6233,7 +6232,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.86s;
+  animation-delay: 1.34s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(3) > div {
@@ -6263,7 +6262,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.69s;
+  animation-delay: 3.93s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(4) > div {
@@ -6293,7 +6292,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.37s;
+  animation-delay: 3.33s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(2) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(5) > div {
@@ -6333,7 +6332,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.12s;
+  animation-delay: 4.22s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(1) > div {
@@ -6363,7 +6362,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.47s;
+  animation-delay: 4.17s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(2) > div {
@@ -6393,7 +6392,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.87s;
+  animation-delay: 1.57s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(3) > div {
@@ -6423,7 +6422,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.21s;
+  animation-delay: 1.65s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(4) > div {
@@ -6453,7 +6452,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4s;
+  animation-delay: 2.07s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(1) .masked-cell:nth-child(5) > div {
@@ -6486,7 +6485,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.04s;
+  animation-delay: 2.45s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(1) > div {
@@ -6516,7 +6515,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.8s;
+  animation-delay: 2.86s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(2) > div {
@@ -6546,7 +6545,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.09s;
+  animation-delay: 3.46s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(3) > div {
@@ -6576,7 +6575,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.7s;
+  animation-delay: 2.19s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(4) > div {
@@ -6606,7 +6605,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.5s;
+  animation-delay: 1.07s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(2) .masked-cell:nth-child(5) > div {
@@ -6639,7 +6638,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.51s;
+  animation-delay: 4.85s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(1) > div {
@@ -6669,7 +6668,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.54s;
+  animation-delay: 1.6s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(2) > div {
@@ -6699,7 +6698,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.01s;
+  animation-delay: 3.86s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(3) > div {
@@ -6729,7 +6728,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.77s;
+  animation-delay: 1.82s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(4) > div {
@@ -6759,7 +6758,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.23s;
+  animation-delay: 3.56s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(3) .masked-cell:nth-child(5) > div {
@@ -6792,7 +6791,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.14s;
+  animation-delay: 4.57s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(1) > div {
@@ -6822,7 +6821,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.88s;
+  animation-delay: 4.52s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(2) > div {
@@ -6852,7 +6851,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.85s;
+  animation-delay: 4.51s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(3) > div {
@@ -6882,7 +6881,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.86s;
+  animation-delay: 2.94s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(4) > div {
@@ -6912,7 +6911,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.26s;
+  animation-delay: 3.9s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(4) .masked-cell:nth-child(5) > div {
@@ -6945,7 +6944,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.2s;
+  animation-delay: 2.2s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(1) > div {
@@ -6975,7 +6974,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.45s;
+  animation-delay: 5.23s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(2) > div {
@@ -7005,7 +7004,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.5s;
+  animation-delay: 2.22s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(3) > div {
@@ -7035,7 +7034,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.21s;
+  animation-delay: 4.5s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(4) > div {
@@ -7065,7 +7064,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.18s;
+  animation-delay: 3.51s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(1) .petals-column:nth-child(5) .masked-cell:nth-child(5) > div {
@@ -7102,7 +7101,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.56s;
+  animation-delay: 2.02s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(1) > div {
@@ -7132,7 +7131,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.01s;
+  animation-delay: 2.6s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(2) > div {
@@ -7162,7 +7161,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.97s;
+  animation-delay: 4.8s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(3) > div {
@@ -7192,7 +7191,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.13s;
+  animation-delay: 2.48s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(4) > div {
@@ -7222,7 +7221,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.64s;
+  animation-delay: 1.64s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(1) .masked-cell:nth-child(5) > div {
@@ -7255,7 +7254,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.84s;
+  animation-delay: 4.54s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(1) > div {
@@ -7285,7 +7284,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.59s;
+  animation-delay: 4.03s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(2) > div {
@@ -7315,7 +7314,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.28s;
+  animation-delay: 3.58s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(3) > div {
@@ -7345,7 +7344,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.21s;
+  animation-delay: 5.06s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(4) > div {
@@ -7375,7 +7374,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.78s;
+  animation-delay: 3.54s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(2) .masked-cell:nth-child(5) > div {
@@ -7408,7 +7407,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.83s;
+  animation-delay: 1.52s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(1) > div {
@@ -7438,7 +7437,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.64s;
+  animation-delay: 4.39s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(2) > div {
@@ -7468,7 +7467,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.54s;
+  animation-delay: 1.61s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(3) > div {
@@ -7498,7 +7497,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.21s;
+  animation-delay: 2.18s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(4) > div {
@@ -7528,7 +7527,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.98s;
+  animation-delay: 3.26s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(3) .masked-cell:nth-child(5) > div {
@@ -7561,7 +7560,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.81s;
+  animation-delay: 2.99s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(1) > div {
@@ -7591,7 +7590,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.93s;
+  animation-delay: 1.44s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(2) > div {
@@ -7621,7 +7620,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.02s;
+  animation-delay: 1.85s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(3) > div {
@@ -7651,7 +7650,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.58s;
+  animation-delay: 4.37s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(4) > div {
@@ -7681,7 +7680,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.25s;
+  animation-delay: 4.53s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(4) .masked-cell:nth-child(5) > div {
@@ -7714,7 +7713,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.22s;
+  animation-delay: 3.57s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(1) > div {
@@ -7744,7 +7743,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.27s;
+  animation-delay: 4.87s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(2) > div {
@@ -7774,7 +7773,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.73s;
+  animation-delay: 1.26s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(3) > div {
@@ -7804,7 +7803,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.98s;
+  animation-delay: 1.79s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(4) > div {
@@ -7834,7 +7833,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.14s;
+  animation-delay: 3.18s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(2) .petals-column:nth-child(5) .masked-cell:nth-child(5) > div {
@@ -7871,7 +7870,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.66s;
+  animation-delay: 2.94s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(1) > div {
@@ -7901,7 +7900,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.16s;
+  animation-delay: 1.81s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(2) > div {
@@ -7931,7 +7930,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.08s;
+  animation-delay: 4.22s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(3) > div {
@@ -7961,7 +7960,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.15s;
+  animation-delay: 4.43s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(4) > div {
@@ -7991,7 +7990,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.98s;
+  animation-delay: 3.17s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(1) .masked-cell:nth-child(5) > div {
@@ -8024,7 +8023,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.17s;
+  animation-delay: 4.25s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(1) > div {
@@ -8054,7 +8053,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.69s;
+  animation-delay: 5.02s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(2) > div {
@@ -8084,7 +8083,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.43s;
+  animation-delay: 4.65s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(3) > div {
@@ -8114,7 +8113,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.42s;
+  animation-delay: 4.18s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(4) > div {
@@ -8144,7 +8143,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.97s;
+  animation-delay: 4.8s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(2) .masked-cell:nth-child(5) > div {
@@ -8177,7 +8176,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.29s;
+  animation-delay: 3.76s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(1) > div {
@@ -8207,7 +8206,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.09s;
+  animation-delay: 4.88s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(2) > div {
@@ -8237,7 +8236,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.65s;
+  animation-delay: 3.1s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(3) > div {
@@ -8267,7 +8266,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.74s;
+  animation-delay: 1.08s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(4) > div {
@@ -8297,7 +8296,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.17s;
+  animation-delay: 2.88s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(3) .masked-cell:nth-child(5) > div {
@@ -8330,7 +8329,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.11s;
+  animation-delay: 3.46s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(1) > div {
@@ -8360,7 +8359,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.77s;
+  animation-delay: 4.87s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(2) > div {
@@ -8390,7 +8389,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.15s;
+  animation-delay: 5.02s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(3) > div {
@@ -8420,7 +8419,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.5s;
+  animation-delay: 4.7s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(4) > div {
@@ -8450,7 +8449,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.2s;
+  animation-delay: 1.08s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(4) .masked-cell:nth-child(5) > div {
@@ -8483,7 +8482,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.97s;
+  animation-delay: 3.07s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(1) > div {
@@ -8513,7 +8512,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.64s;
+  animation-delay: 3.42s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(2) > div {
@@ -8543,7 +8542,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.46s;
+  animation-delay: 1.01s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(3) > div {
@@ -8573,7 +8572,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.08s;
+  animation-delay: 2.07s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(4) > div {
@@ -8603,7 +8602,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.9s;
+  animation-delay: 2.64s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(3) .petals-column:nth-child(5) .masked-cell:nth-child(5) > div {
@@ -8640,7 +8639,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.22s;
+  animation-delay: 4.18s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(1) > div {
@@ -8670,7 +8669,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.74s;
+  animation-delay: 4.22s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(2) > div {
@@ -8700,7 +8699,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.61s;
+  animation-delay: 4.78s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(3) > div {
@@ -8730,7 +8729,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.45s;
+  animation-delay: 4.02s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(4) > div {
@@ -8760,7 +8759,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.59s;
+  animation-delay: 4.7s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(1) .masked-cell:nth-child(5) > div {
@@ -8793,7 +8792,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.32s;
+  animation-delay: 1.58s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(1) > div {
@@ -8823,7 +8822,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.42s;
+  animation-delay: 2.36s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(2) > div {
@@ -8853,7 +8852,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.69s;
+  animation-delay: 1.03s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(3) > div {
@@ -8883,7 +8882,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.11s;
+  animation-delay: 2.99s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(4) > div {
@@ -8913,7 +8912,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.1s;
+  animation-delay: 1.77s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(2) .masked-cell:nth-child(5) > div {
@@ -8946,7 +8945,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.16s;
+  animation-delay: 3.18s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(1) > div {
@@ -8976,7 +8975,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.12s;
+  animation-delay: 4.57s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(2) > div {
@@ -9006,7 +9005,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.13s;
+  animation-delay: 3.89s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(3) > div {
@@ -9036,7 +9035,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.7s;
+  animation-delay: 2.33s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(4) > div {
@@ -9066,7 +9065,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.55s;
+  animation-delay: 1.5s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(3) .masked-cell:nth-child(5) > div {
@@ -9099,7 +9098,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.95s;
+  animation-delay: 4.4s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(1) > div {
@@ -9129,7 +9128,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.22s;
+  animation-delay: 4.75s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(2) > div {
@@ -9159,7 +9158,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.27s;
+  animation-delay: 2.65s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(3) > div {
@@ -9189,7 +9188,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.34s;
+  animation-delay: 3.2s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(4) > div {
@@ -9219,7 +9218,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 4.59s;
+  animation-delay: 1.01s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(4) .masked-cell:nth-child(5) > div {
@@ -9252,7 +9251,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 3.21s;
+  animation-delay: 2.28s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(1) > div {
@@ -9282,7 +9281,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 1.04s;
+  animation-delay: 3.91s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(2) > div {
@@ -9312,7 +9311,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.2s;
+  animation-delay: 4.08s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(3) > div {
@@ -9342,7 +9341,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 2.37s;
+  animation-delay: 4.72s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(4) > div {
@@ -9372,7 +9371,7 @@ svg, .petals-wrapper, .petals-column {
   animation-duration: 4s;
   animation-timing-function: linear;
   animation-direction: alternate;
-  animation-delay: 5.17s;
+  animation-delay: 1.63s;
   animation-play-state: var(--anim-state);
 }
 .main-wrapper:nth-child(3) .petals-ring:nth-child(3) .petals-wrapper:nth-child(4) .petals-column:nth-child(5) .masked-cell:nth-child(5) > div {
