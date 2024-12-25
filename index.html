@@ -25,6 +25,7 @@
     </label>
     <script>
         const body = document.querySelector("body");
+        const container = document.querySelector(".container");
         const mainWrapper = document.querySelector(".main-wrapper");
         const petalsRing = document.querySelector(".petals-ring");
         const petalsWrapper = mainWrapper.querySelector(".petals-wrapper");
@@ -44,6 +45,7 @@
         createNodes(petalsWrapper, petalsColumn, amount);
         createNodes(petalsRing, petalsWrapper, 3);
         createNodes(mainWrapper, petalsRing, 3);
+        /* createNodes(container, mainWrapper, 4); */
     </script>
 </body>
 
